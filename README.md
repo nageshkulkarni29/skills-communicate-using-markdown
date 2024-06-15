@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+###### Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -69,7 +69,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  _Add a link to get support, GitHub status page, code of conduct, license link._
 -->
 
 ---
